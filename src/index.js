@@ -3,7 +3,6 @@ const express = require("express");
 const passport = require("passport");
 const authRoute = require("./routes/auth");
 
- require("./passport");
 
 
 const {
